@@ -1,0 +1,6 @@
+Comienzas el ciclo for en la posición en la que está el último elemento de tu arreglo
+ int i = ultimo_elemento_arreglo 
+
+ y lo decreces hasta la posición que el usuario eligió.
+Dentro del for nada más haces el intercambio de posiciones 
+Asignas el valor _elegido a la poscion_elegida  
